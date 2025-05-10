@@ -1,0 +1,1 @@
+curl -o "create-wrapper.sh" "https://raw.githubusercontent.com/connor33341/pypack/refs/heads/main/scripts/create-wrapper.sh"
