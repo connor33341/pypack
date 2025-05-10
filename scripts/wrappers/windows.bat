@@ -2,8 +2,8 @@
 setlocal EnableDelayedExpansion
 
 :: URLs for default .pypack and .pypack-config files
-set PYPACK_URL=https://example.com/default.pypack
-set CONFIG_URL=https://example.com/default.pypack-config
+set PYPACK_URL=https://github.com/connor33341/pypack/raw/refs/heads/main/default/.pypack
+set CONFIG_URL=https://github.com/connor33341/pypack/raw/refs/heads/main/default/.pypack-config
 
 :: Check for .pypack file
 if not exist "*.pypack" (

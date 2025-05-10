@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # URL of the shell script to download
-SCRIPT_URL="https://example.com/script-to-download.sh"
+SCRIPT_URL="https://github.com/connor33341/pypack/raw/refs/heads/main/scripts/wrappers/linux.sh"
 
 # Name of the downloaded file
 SCRIPT_NAME="pypack.sh"
